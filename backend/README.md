@@ -13,15 +13,15 @@ Before you begin, ensure you have the following installed on your machine:
 
 1. **Navigate to the backend directory:**
    ```bash
-   cd SIGNAPAY-INTERVIEW/backend
+   cd backend
 
 2. **Install the required dependencies:**
+   ```bash
    pip install -r requirements.txt
 
 3. **Running the server:**
+   ```bash
    python app.py
-
-It is recommended to use a virtual environment to avoid dependency conflicts.
 
 ## API Endpoints
 

@@ -16,7 +16,9 @@ Before you begin, ensure you have the following installed on your machine:
    cd frontend
 
 2. **Install the required dependencies:**
+   ```bash
    npm install
 
 3. **Running the application:**
+   ```bash
    npm start
