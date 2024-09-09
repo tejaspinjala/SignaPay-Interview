@@ -16,11 +16,8 @@ Before you begin, ensure you have the following installed on your machine:
    cd frontend
 
 2. **Install the required dependencies:**
-    npm install
+   npm install
 
 3. **Running the application**
-    npm start
-    This will start the application on http://localhost:3000.
-
-### Styling
-    The project uses Tailwind CSS for styling. You can configure and extend Tailwind settings in the tailwind.config.js file.
+   npm start
+   This will start the application on http://localhost:3000.
