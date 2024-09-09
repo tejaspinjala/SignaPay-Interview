@@ -18,6 +18,5 @@ Before you begin, ensure you have the following installed on your machine:
 2. **Install the required dependencies:**
    npm install
 
-3. **Running the application**
+3. **Running the application:**
    npm start
-   This will start the application on http://localhost:3000.
